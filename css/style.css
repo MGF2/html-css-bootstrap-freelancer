@@ -84,6 +84,11 @@ section .blue-line {
   margin-top: 15px;
 }
 
+section .white-line {
+  border-bottom: 5px solid white;
+  margin-top: 15px;
+}
+
 section i {
   font-size: 30px;
 }
@@ -99,4 +104,24 @@ section h2{
 
 section img {
   margin-bottom: 30px;
+}
+
+section .starbox {
+  margin-bottom: 30px;
+}
+
+section p {
+  font-size: 16px;
+}
+
+section button {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #1abc9c;
+  border: 2px solid white;
+  border-radius: 7px;
+}
+
+section button i{
+ font-size: 16px;
 }
