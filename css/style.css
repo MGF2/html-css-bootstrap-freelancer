@@ -69,15 +69,14 @@ header i {
   font-size: 30px;
 }
 
-header button span {
-  color: white;
-  width: 3px;
-}
 
  header .msmar{
    margin-top: -10px;
-   padding: 15px;
+   padding-top: 10px;
+ }
 
+ header button, header button i {
+   font-size: 15px;
  }
 
 /* .starbox {
