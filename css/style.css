@@ -176,6 +176,12 @@ section .row button {
   border-radius: 7px;
 }
 
+.msform {
+  border: 1px solid white;
+  font-size: 21px;
+  margin-bottom: 25px;
+}
+
 footer h4 {
   text-transform: uppercase;
   color: white;
